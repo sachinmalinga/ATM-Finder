@@ -1,2 +1,2 @@
-# ATM-Finder
-3 Year MAD Assignment
+# Location-App
+Location awareness android app

@@ -1,0 +1,16 @@
+<resources>
+    <string name="google_maps_key">AIzaSyDjPgD2I7RazSpnvzqWYqGBAZsbbYOe2m0</string>
+    <string name="app_name">ATM Finder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="user_name_1">H.P. Dangalla</string>
+    <string name="user_id_1">IT14032516</string>
+    <string name="user_name_2">P.S.M. Alawatta</string>
+    <string name="user_id_2">IT14150944</string>
+    <string name="user_name_3">A.T.P. Bawantha</string>
+    <string name="user_id_3">IT14149504</string>
+    <string name="user_name_4">A.K.T. Janawani</string>
+    <string name="user_id_4">IT14091230</string>
+</resources>
